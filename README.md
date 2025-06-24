@@ -7,17 +7,15 @@
 
 
 
-
 ### 🧑‍💻 Hakkımda
 
-Ben Kimim
-🚀 Web tasarımla başlayan yazılım yolculuğum, Balıkesir Üniversitesi’nde bilgisayar programcılığıyla devam etti.
-📚 2022’den beri yazılımı tutkuyla öğreniyor ve her gün yeni teknolojiler keşfediyorum.
-⚛️ JavaScript ve React üzerine birçok proje yaptım, modern CSS ile tasarım becerilerimi geliştirdim.
-🔥 Firebase ve Next.js ile gerçek dünya uygulamaları geliştiriyorum.
+Ben Kimim  
+🚀 Web tasarımla başlayan yazılım yolculuğum, Balıkesir Üniversitesi’nde bilgisayar programcılığıyla devam etti.  
+📚 2022’den beri yazılımı tutkuyla öğreniyor ve her gün yeni teknolojiler keşfediyorum.  
+⚛️ JavaScript ve React üzerine birçok proje yaptım, modern CSS ile tasarım becerilerimi geliştirdim.  
+🔥 Firebase ve Next.js ile gerçek dünya uygulamaları geliştiriyorum.  
 📬 Bana ulaşmak için: enesyagmur99@gmail.com
 
----
 
 ### 🔗 Benimle Bağlantı Kur
 
