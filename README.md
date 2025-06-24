@@ -59,12 +59,3 @@
 
 
 
----
-
-### 🌀 Fun SVG Background (Optional)
-
-> GitHub README’lerde direkt arka plan yapılamıyor ama bu tarz SVG dalgalarla bölüm aralarına görsel ekleyebilirsin.
-
-```html
-<!-- Add in Markdown as <img> or just decorate your GitHub Pages site -->
-<img src="https://raw.githubusercontent.com/EnesYagmur/Assets/main/wave.svg" />
