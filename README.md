@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Enes+Yağmur!;Frontend+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Tailwind+%7C+Firebase" alt="Typing SVG" />
-</h1>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
