@@ -58,6 +58,9 @@
   <img src="https://github-contribution-grid.vercel.app/api?username=enesyagmur&bg=radial-gradient(circle,%23000000,%230f2027)" />
 </p>
 
+![Snake animation](https://github.com/enesyagmur/enesyagmur/blob/output/github-contribution-grid-snake.svg)
+
+
 ---
 
 ### 🌀 Fun SVG Background (Optional)
