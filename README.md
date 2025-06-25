@@ -43,10 +43,3 @@ Ben Kimim
 
 ---
 
-### 🔥 GitHub Aktivite Serim
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enesyagmur&theme=radical" />
-</p>
-
-
